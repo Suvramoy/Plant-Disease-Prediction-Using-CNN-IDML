@@ -63,29 +63,27 @@ To reproduce or use this project, follow these steps:
 
 
 
-Install Dependencies:
-pip install -r requirements.txt
 
-
-Download the Dataset:
+## Download the Dataset:
 
 Obtain the Cassava Leaf Disease Classification dataset from Kaggle.
 
-Future Work
+## Future Work
 
 Investigate advanced architectures to improve clustering performance (e.g., higher NMI).
 Expand the dataset with more diverse images for better generalization.
 Optimize the model for real-time inference on low-resource devices.
 
-Acknowledgements
+## Acknowledgements
 
 Dataset: Sourced from the Cassava Leaf Disease Classification Kaggle competition.
 Supervisor: Dr. Rajen Kumar Sinha for invaluable guidance.
 Authors: Suvramoy Pal and Chandresh Joshi, MSc students at IIT Guwahati.
 
-License
+## License
 This project is released under the MIT License.
-Contact
+
+## Contact
 For questions or collaboration, reach out to:
 
 Suvramoy Pal: suvramoy58@gmail.com
